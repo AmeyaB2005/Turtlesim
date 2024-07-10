@@ -12,15 +12,22 @@ The code is written in Python using Vscode.
 
 ### Follow the steps
 1. Clone the repository.<br>
-    >git clone "https://github.com/lonebots/turtlesim-catch-them-all.git"
+
+
+        git clone "https://github.com/lonebots/turtlesim-catch-them-all.git"
 
       
 3. Navigate to source folder.<br>
-    >cd turtlesim-catch-them-all/src
-4. build the packages.<br>
-    >colcon build
-5. run the launch file.<br>
-    >ros2 launch turtlesim_ctall_bringup turtle_ctall_app.launch.py
+
+        cd turtlesim-catch-them-all/src
+
+5. build the packages.<br>
+
+        colcon build
+
+7. run the launch file.<br>
+
+        ros2 launch turtlesim_ctall_bringup turtle_ctall_app.launch.py
 
 
  # ROS2 Node Graph
