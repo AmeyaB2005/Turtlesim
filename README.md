@@ -30,9 +30,7 @@ The code is written in Python using Vscode.
         ros2 launch turtlesim_ctall_bringup turtle_ctall_app.launch.py
 
 
- # ROS2 Node Graph
-> 
-  ![Screenshot 2024-07-10 194615](https://github.com/AmeyaB2005/Turtlesim/assets/146567207/eda00f14-3956-445a-bc1d-f6be161493e1)
+
 
 
 
@@ -64,3 +62,9 @@ With that the turtle moves for catching the new turtles
 >self.Turtle_kill('turtle2')
 >
 >
+
+
+
+ # ROS2 Node Graph
+> 
+  ![Screenshot 2024-07-10 194615](https://github.com/AmeyaB2005/Turtlesim/assets/146567207/eda00f14-3956-445a-bc1d-f6be161493e1)
